@@ -1982,23 +1982,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\victor.icoma\\.nuget\\packages\\": {},
+    "C:\\Users\\jovep\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\tp\\tp2-stockapp\\StockApp\\StockApp.WebUI\\StockApp.WebUI.csproj",
+      "projectUniqueName": "C:\\tecnicasdeProgramacaoProva\\tp2-stockapp\\StockApp\\StockApp.WebUI\\StockApp.WebUI.csproj",
       "projectName": "StockApp.WebUI",
-      "projectPath": "C:\\tp\\tp2-stockapp\\StockApp\\StockApp.WebUI\\StockApp.WebUI.csproj",
-      "packagesPath": "C:\\Users\\victor.icoma\\.nuget\\packages\\",
-      "outputPath": "C:\\tp\\tp2-stockapp\\StockApp\\StockApp.WebUI\\obj\\",
+      "projectPath": "C:\\tecnicasdeProgramacaoProva\\tp2-stockapp\\StockApp\\StockApp.WebUI\\StockApp.WebUI.csproj",
+      "packagesPath": "C:\\Users\\jovep\\.nuget\\packages\\",
+      "outputPath": "C:\\tecnicasdeProgramacaoProva\\tp2-stockapp\\StockApp\\StockApp.WebUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\victor.icoma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jovep\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2014,8 +2014,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\tp\\tp2-stockapp\\StockApp\\StockApp.Infra.IoC\\StockApp.Infra.IoC.csproj": {
-              "projectPath": "C:\\tp\\tp2-stockapp\\StockApp\\StockApp.Infra.IoC\\StockApp.Infra.IoC.csproj"
+            "C:\\tecnicasdeProgramacaoProva\\tp2-stockapp\\StockApp\\StockApp.Infra.IoC\\StockApp.Infra.IoC.csproj": {
+              "projectPath": "C:\\tecnicasdeProgramacaoProva\\tp2-stockapp\\StockApp\\StockApp.Infra.IoC\\StockApp.Infra.IoC.csproj"
             }
           }
         }
@@ -2024,6 +2024,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2048,7 +2053,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
